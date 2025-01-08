@@ -1,0 +1,9 @@
+Aleks Cergol,30,50,40,80
+
+Miha Jelinek,70,70,80,65
+
+Jelena Tomasevic,85,90,95,90
+
+Sofija Tomaz,75,90,65,50
+
+Ana Zahod,55,45,60,70
